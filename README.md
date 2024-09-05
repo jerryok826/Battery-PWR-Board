@@ -1,4 +1,4 @@
-# Battery-PWR-Board
+# Battery PWR Board
 
 ![Robot_Front](https://github.com/jerryok826/Battery-PWR-Board/blob/main/Pictures/IMG_7550.jpeg)
 
